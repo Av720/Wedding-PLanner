@@ -1,1 +1,1 @@
-# Wedding-PLanner
+# Wedding-Planner
